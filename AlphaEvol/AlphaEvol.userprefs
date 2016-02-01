@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Hunting.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Hunting.cs" Line="192" Column="34" />
+      <File FileName="Assets\FoodSpawn.cs" Line="17" Column="100" />
+      <File FileName="Assets\LameVictimLife.cs" Line="7" Column="19" />
+      <File FileName="Assets\Scripts\MoveForward.cs" Line="10" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
